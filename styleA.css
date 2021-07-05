@@ -30,11 +30,52 @@ span{
     margin-left: 100px;
 }
 
-.link-decoration{
+
+#link1-decoration{
     padding: 15px 20px;
     border-radius: 50px;
     color: white;
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
+}
+
+#link2-decoration{ 
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,grey);
+}
+
+#div-link2{
+    margin-left: 140px;
+    margin-top: 15px;
+    
+    
+}
+#heading-decoration{
+    color: darkslategray;
+    margin-left: 140px;
+    margin-top: 60px;
+    
+}
+
+#para-decoration{
+    color:darkslategray;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-right: 100px;
+    padding: 0px 90px 0px 90px;
+}
+
+
+
+#background-img{
+    background-image: url(images/bg/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 100%;
+    height: 700px;
 }
 
