@@ -1,0 +1,40 @@
+#font-style{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    font-weight:700;
+}
+
+.heading-color{
+    color: gray;
+
+}
+
+span{
+    color: orange;
+}
+
+.flexible{
+    display: flex;
+    
+}
+
+.half-width{
+    width: 50%;
+}
+
+#text-decoration{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.link-decoration{
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+}
+
