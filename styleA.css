@@ -7,6 +7,10 @@ h1{
     font-weight:700;
 }
 
+.body-setup{
+    margin: 0;
+}
+
 .heading-color{
     color: gray;
 
@@ -18,7 +22,7 @@ span{
 
 .flexible{
     display: flex;
-    
+    margin: 150px;
 }
 
 .half-width{
@@ -75,7 +79,88 @@ span{
     background-image: url(images/bg/Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-position: left;
+    margin-left: 0;
+    padding: 0;
     width: 100%;
     height: 700px;
 }
+
+.text-center{
+    color: lightsteelblue;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+.food-decoration{
+    width: 30%;
+    
+}
+
+#image-center{
+    margin-top: 20px;
+    margin-left: 50px;
+    
+    
+}
+
+.box-design{
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    width: 30%;
+    box-shadow: 5px 7px 40px gray;
+}
+
+#followers-box{
+    
+    height: 150px;
+    border-radius: 20px;
+    box-shadow:5px 5px 40px gray ;
+}
+
+.followers-design{
+    
+    margin-left:5px ;
+    padding-left: 300px;
+}
+
+#review-style{
+
+    text-align: center;
+    font-size: 40px;
+    color:indigo;
+
+}
+
+#star-style{
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.button-design{
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+.footer-design{
+    background-color:black;
+    text-align: center;
+    color: brown;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+
+
+
 
