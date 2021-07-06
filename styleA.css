@@ -111,6 +111,7 @@ span{
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 30px;
+    padding-right: 5px;
     width: 30%;
     box-shadow: 5px 7px 40px gray;
 }
